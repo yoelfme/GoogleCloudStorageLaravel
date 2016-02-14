@@ -1,0 +1,13 @@
+{
+    "name": "yoelfme/google-cloud-storage",
+    "description": "A package to used to integrate Google Cloud Storage in Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yoel Monzon",
+            "email": "yoelfme@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
